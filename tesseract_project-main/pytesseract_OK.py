@@ -6,7 +6,7 @@ import pytesseract
 plt.style.use('dark_background')
  
 img_ori = cv2.imread('/Users/gazet/work/tesseract_project-main/6.jpg')
-
+# Edited from git remote web
 #print(img_ori)
 height, width, channel = img_ori.shape
 
